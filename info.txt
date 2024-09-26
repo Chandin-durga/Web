@@ -1,1 +1,2 @@
-we are creating basic web page.
+we are creating basic web site
+this website mainly focused on diffrent types of recipies
